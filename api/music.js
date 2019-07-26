@@ -5,3 +5,6 @@ function getMusic(){
 function foo(){
     
 }
+function bar(){
+    
+}
